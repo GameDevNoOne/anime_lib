@@ -1,4 +1,5 @@
 # anime_lib
+
 ## Fellow Fans of Anime
 
 ![picture alt](https://wallpapercave.com/wp/wp2731089.gif "Vegeta" )
@@ -12,6 +13,7 @@ First: A search script for the library
 Second: A library which will hoepfully contain as many Animes as possible.
 
 __This means:__
+
 - Everyone can contribute to this library which for now asks for a name and a link to a website where you can watch it.
 
 - I will need your help to fill this library with as many Animes as possibe and to expand what it can do.
