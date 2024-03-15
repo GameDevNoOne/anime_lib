@@ -40,7 +40,7 @@ __This means:__
 
 - [ ] __Improve the README to be better and more lively__
 
-This is an open source project open to anyone who wants to contribute.
+This is an open source project open to anyone who wants to contribute. If you want to contribute message me at noonegamedev1@gmail.com
 - - - -
 
 ### ___DO NOT INPUT ANY MALICIOUS CODE OR LINKS___
