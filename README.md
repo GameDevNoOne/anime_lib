@@ -30,9 +30,9 @@ __This means:__
 
 #### Future Tasks
 
-- [ ] __Increase the paramaters of the Anime class to include a description, a date of release, the rating of the Anime and more__
+- [x] __Increase the paramaters of the Anime class to include a description, a date of release, the rating of the Anime and more__
 
-- [ ] __Create Classes for Hentai, Manga, Manhwa and Self Published works to increase the scope of the library to as many people as possible__
+- [x] __Create Classes for Hentai, Manga, Manhwa and Self Published works to increase the scope of the library to as many people as possible__
 
 - [ ] __Improve the Search Engine to be more user friendly__
 
